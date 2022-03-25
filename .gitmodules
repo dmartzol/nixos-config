@@ -1,0 +1,3 @@
+[submodule "users/dani/nvim"]
+	path = users/dani/nvim
+	url = git@github.com:dmartzol/nvim.git
