@@ -49,6 +49,7 @@ xdg.configFile."nvim/lua/user/lualine.lua".source = ./nvim/lua/user/lualine.lua;
 xdg.configFile."nvim/lua/user/telescope.lua".source = ./nvim/lua/user/telescope.lua;
 xdg.configFile."nvim/lua/user/luasnip.lua".source = ./nvim/lua/user/luasnip.lua;
 xdg.configFile."nvim/lua/user/gitsigns.lua".source = ./nvim/lua/user/gitsigns.lua;
+xdg.configFile."nvim/lua/user/which-key.lua".source = ./nvim/lua/user/which-key.lua;
 xdg.configFile."nvim/lua/user/lsp/init.lua".source = ./nvim/lua/user/lsp/init.lua;
 xdg.configFile."nvim/lua/user/lsp/lsp.lua".source = ./nvim/lua/user/lsp/lsp.lua;
 
